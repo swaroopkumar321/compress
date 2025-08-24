@@ -201,7 +201,7 @@ function App() {
       <div className="container">
         <div className="header">
           <div className="logo">
-            <h1>File Compressor</h1>
+            <h1>Media Compressor</h1>
           </div>
           <p className="subtitle">Reduce file sizes for images and videos</p>
         </div>
